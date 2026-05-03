@@ -43,14 +43,14 @@ export const portfolioData = {
       institution: "Kingston University London",
       logo: "/Kingston.png",
       period: "Sep 2023 – Jan 2025",
-      grade: "Distinction (CGPA 3.60/4)"
+      grade: "Distinction"
     },
     {
       degree: "B.Tech in Computer Science",
       institution: "Dayananda Sagar University",
       logo: "/Dayananda Sagar.png",
       period: "Jun 2017 – Jun 2021",
-      grade: "Distinction (CGPA 8.74/10)"
+      grade: "Distinction"
     }
   ],
   skills: {

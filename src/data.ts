@@ -18,7 +18,7 @@ export const portfolioData = {
       period: "July 2024 – Present",
       highlights: [
         "Designed and optimized Snowflake SQL-based fraud detection risk rules, improving fraud coverage by 30%.",
-        "Conducted deep-dive Root Cause Analysis () on onboarding fraud, preventing ~500 high-risk onboardings monthly.",
+        "Conducted deep-dive Root Cause Analysis on onboarding fraud, preventing ~500 high-risk onboardings monthly.",
         "Built real-time anomaly detection dashboards in Snowflake SQL, reducing investigation time by 40%.",
         "Automated fraud monitoring workflows using Python and AI, improving productivity by 60%."
       ]

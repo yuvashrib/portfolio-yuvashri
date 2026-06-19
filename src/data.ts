@@ -4,7 +4,7 @@ export const portfolioData = {
     headline: "Data Analyst",
     description: "Results-driven Data Analyst with 3+ years of experience in fraud detection, RCA, business intelligence, and data-driven decision-making.",
     photo: "/linkedin.jpg",
-    email: "yuvashrib@gmail.com",
+    email: "yuvashribhanu@outlook.com",
     linkedin: "https://www.linkedin.com/in/yuvashri-bhanuprakash/",
     github: "https://github.com/yuvashrib/",
     medium: "https://medium.com/@yuvashrib"
